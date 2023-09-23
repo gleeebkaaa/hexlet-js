@@ -1,6 +1,4 @@
-import _ from "lodash";
-
-console.log(_.last(["one", "two"]));
+import 'lodash';
 
 const faHex = (a, b) => {
   const result = a + b;
